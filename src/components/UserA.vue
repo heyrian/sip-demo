@@ -1,5 +1,5 @@
 <script setup>
-import { ref, watch } from 'vue';
+import { ref } from 'vue';
 import * as SIP from 'sip.js';
 
 const user = ref(null);
